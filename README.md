@@ -1,6 +1,6 @@
 # Chrome Extensions Privacy Policy
 
-_Effective Date: January 28, 2024_
+_Effective Date: February 04, 2025_
 
 I respect and value your privacy. This Privacy Policy describes how I handle and protect your personal information in relation to your use of my Google Chrome extension(s).
 
@@ -10,7 +10,7 @@ My Google Chrome Extensions do not collect any personal information from users. 
 
 ## Links to Other Websites
 
-My Google Chrome Extensions may contain links to other websites not operated by me. This Privacy Policy does not cover how that website processes personal information. I encourage you to review the Privacy Policy of every website that you visit.
+My Google Chrome Extensions may contain links to other websites that I do not operate. This Privacy Policy does not cover how that website processes personal information. I'd like you to please review the Privacy Policy of every website that you visit.
 
 ## Changes to this Privacy Policy
 
@@ -20,4 +20,4 @@ By using my Google Chrome Extensions, you signify your consent and agreement to 
 
 ## Feedback
 
-If you have questions or concerns about this Privacy Policy, you can contact me by [email](mailto:extensiondeveloper314@gmail.com).
+If you have questions or concerns about this Privacy Policy, you can contact me by [email](mailto:ibrayas@gmail.com).
